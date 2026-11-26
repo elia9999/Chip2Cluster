@@ -1,0 +1,30 @@
+{
+  "title": "INTERCONNECT ATLAS · 看见算力",
+  "type": "interactive-3d-report",
+  "levels": [
+    "芯片内部",
+    "封装",
+    "板卡",
+    "服务器",
+    "超节点",
+    "集群"
+  ],
+  "scenes": [
+    "chip",
+    "package",
+    "board",
+    "nic",
+    "pcie",
+    "hccs",
+    "hgx",
+    "ub",
+    "ib",
+    "roce",
+    "uboe",
+    "ubg"
+  ],
+  "entry": "index.html",
+  "model": "近似教学结构，非真实版图或工程布线",
+  "sources": "assets/sources.json",
+  "visual_style": "深色科技产品页 / 冰蓝金属 / 3D 首屏"
+}

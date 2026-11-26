@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+node_modules/
+# Historical image copies; runtime uses assets/figures/.
+/assets/*.png
+/assets/*.jpg
+/assets/*.svg
