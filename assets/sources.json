@@ -1,0 +1,92 @@
+{
+  "h100-module.jpg": {
+    "source_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/SXM5-White-4-NEW-FINAL.jpg",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "gh100-block.png": {
+    "source_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/Full-H100-GPU-with-144-SMs.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "h100-sm.png": {
+    "source_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/H100-Streaming-Multiprocessor-SM-625x869.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "hgx-topology.png": {
+    "source_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/HGX-H100-Diagram.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "hgx-board.png": {
+    "source_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2022/03/HGX-H100-8-GPU_16x9.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "pcie-dgx2.png": {
+    "source_url": "https://docs.nvidia.com/gpudirect-storage/configuration-guide/_images/fig-1.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "connectx7-osfp.png": {
+    "source_url": "https://networking-docs.nvidia.com/connectx7hw/__attachments/a_a01a2206ab2bf17f5abe4d48bc7c07938893ac21c022d890cd20147b374d4f0b/image2022-9-21_18-55-8.png?cb=147c49df8da06d163fabe4b7e26dea9d",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "hccs-8p.png": {
+    "source_url": "https://www.hiascend.com/doc_center/source/zh/Pytorch/600/ptmoddevg/trainingmigrguide/figure/zh-cn_image_0000002173258097.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "2-0-cm384-new.svg": {
+    "source_url": "https://arxiv.org/html/2506.12708v3/2-0-cm384-new.svg",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "2-1-a3-final.svg": {
+    "source_url": "https://arxiv.org/html/2506.12708v3/2-1-a3-final.svg",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "2-2-a3-server-new.svg": {
+    "source_url": "https://arxiv.org/html/2506.12708v3/2-2-a3-server-new.svg",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "2-3-a3-switch-system.svg": {
+    "source_url": "https://arxiv.org/html/2506.12708v3/2-3-a3-switch-system.svg",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "network-1.png": {
+    "source_url": "https://docscontent.nvidia.com/dims4/default/6effd46/2147483647/strip/true/crop/926x391+0+0/resize/926x391!/quality/90/?url=https%3A%2F%2Fk3-prod-nvidia-docs.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fconfluence%2F0000019a-976e-d2f4-adde-f7ffb79c0000%2Fimages%2Fdownload%2Fattachments%2F4393394597%2Fimage-2023-11-12_13-58-39-1-version-1-modificationdate-1761029324747-api-v2.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "network-2.png": {
+    "source_url": "https://docscontent.nvidia.com/dims4/default/f8d7b98/2147483647/strip/true/crop/526x221+0+0/resize/526x221!/quality/90/?url=https%3A%2F%2Fk3-prod-nvidia-docs.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fconfluence%2F0000019a-976e-d2f4-adde-f7ffb79c0000%2Fimages%2Fdownload%2Fattachments%2F4393394597%2Fimage-2023-11-12_13-59-11-1-version-1-modificationdate-1761029325310-api-v2.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "network-3.png": {
+    "source_url": "https://docscontent.nvidia.com/dims4/default/0095bcc/2147483647/strip/true/crop/953x446+0+0/resize/953x446!/quality/90/?url=https%3A%2F%2Fk3-prod-nvidia-docs.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fconfluence%2F0000019a-976e-d2f4-adde-f7ffb79c0000%2Fimages%2Fdownload%2Fattachments%2F4393394597%2Fimage-2023-11-12_13-59-33-1-version-1-modificationdate-1761029325547-api-v2.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "network-4.png": {
+    "source_url": "https://docscontent.nvidia.com/dims4/default/62ffc86/2147483647/strip/true/crop/953x480+0+0/resize/953x480!/quality/90/?url=https%3A%2F%2Fk3-prod-nvidia-docs.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fconfluence%2F0000019a-976e-d2f4-adde-f7ffb79c0000%2Fimages%2Fdownload%2Fattachments%2F4393394597%2Fimage-2023-11-12_13-59-55-1-version-1-modificationdate-1761029325797-api-v2.png",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "ubg-stage.jpg": {
+    "source_url": "https://e-file.huawei.com/marketingcloud/pep/asset/2000000101/images/news/2026/xinghe-intelligent-data-center-network/01.jpg",
+    "retrieved": "2026-11-26",
+    "handling": "原图文件；标记由 HTML 独立叠加"
+  },
+  "uboe-draft-figure1.svg": {
+    "source_url": "https://www.ietf.org/archive/id/draft-li-uboe-00.html#figure-1",
+    "retrieved": "2026-11-26",
+    "handling": "原始字符图转为 SVG 排版，未改变拓扑"
+  }
+}
